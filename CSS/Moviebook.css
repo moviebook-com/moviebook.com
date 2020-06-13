@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+.decription_a p {
+    font-size:10px
+}
+.title_a {
+    color:red;
+    font-size:60px;
+    font-family:serif;
+}
+.decription_in {
+    font-size:10px ;
+}
+.header-logo {
+    font-size:100px;
+    font-family:serif;
+    color:blue ;
+
+}
+.header-list li {
+    list-style: none;
+    font-size:20px;
+    color:#99cc65;
+
+
+}
+* {
+    margin:0; padding:0;
+  }
+  header {
+    height: 100px;
+    width: 100%;
+    padding: 15px 0;
+    background-color: #337079;
+    color: white;
+  }
+  header .headline {
+      line-height: 100px;
+      float: left;
+      font-size: 30px;
+      margin-left: 100px;
+  }
+  .nav-list {
+      line-height: 100px;
+      float: left;
+      margin-left: 30px;
+      list-style: none;
+  }
+  .nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+  }
+
+.inception {
+  background-color:yellow;
+}
+.gatsubi {
+  background-color:#00bbff;
+  }
+.title {
+  font-size:100px;
+}
+.title-b {
+  margin-top:60px;
+}
+
+.revenant-1{
+  font-size:20px;
+}
+.decription_b{
+  color:red;
+}
+.level-up{
+  font-size:60px;
+  background-color:#00bbff;
+}
+.level-up-2{
+  font-size:40px;
+  color:pink;
+}
+.name-112{
+  font-size: 30px;
+
+}
+.revenant-s {
+  font-size:20px;
+  margin-left:30px
+}
+.last{
+  font-size:30px;
+}
+.revenant-4 {
+  background-color:#66cdaa;
+}
